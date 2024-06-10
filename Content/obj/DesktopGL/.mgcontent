@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/sarue/Desktop/Projecto Rosibel/RPG_monogame/RPG_game/Content/Atlas/background_atlas.png</File>
+    <File>C:/Users/sarue/Desktop/Projecto Rosibel/RPG_monogame/RPG_game/Content/Atlas/character_atlas.png</File>
+    <File>C:/Users/sarue/Desktop/Projecto Rosibel/RPG_monogame/RPG_game/Content/Atlas/hud_atlas.png</File>
+    <File>C:/Users/sarue/Desktop/Projecto Rosibel/RPG_monogame/RPG_game/Content/Atlas/screen_atlas.png</File>
+    <File>C:/Users/sarue/Desktop/Projecto Rosibel/RPG_monogame/RPG_game/Content/Fonts/font.spritefont</File>
+    <File>C:/Users/sarue/Desktop/Projecto Rosibel/RPG_monogame/RPG_game/Content/Fonts/fontSmall.spritefont</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
